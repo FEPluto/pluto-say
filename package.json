@@ -1,0 +1,35 @@
+{
+  "name": "pluto-say",
+  "version": "0.0.0",
+  "description": "Tell Pluto what to say",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FEPluto/pluto-say"
+  },
+  "keywords": [
+    "stdout",
+    "chalk",
+    "pluto",
+    "node",
+    "console"
+  ],
+  "author": "goze",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FEPluto/pluto-say/issues"
+  },
+  "homepage": "https://github.com/FEPluto/pluto-say#readme",
+  "dependencies": {
+    "ansi-regex": "^3.0.0",
+    "ansi-styles": "^3.2.1",
+    "cli-boxes": "^1.0.0",
+    "pad-component": "0.0.1",
+    "string-width": "^2.1.1",
+    "strip-ansi": "^4.0.0",
+    "wrap-ansi": "^3.0.1"
+  }
+}
