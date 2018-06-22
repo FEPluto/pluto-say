@@ -2,20 +2,24 @@
 
 - [ ] use pluto logo.
 
-# usage
+# Usage
 
 install
 
 ```bash
-npm i -S gozesay
+npm i -S pluto-say
 ```
 
 code
 
 ```js
 
-const say = require('gozesay');
+const say = require('pluto-say');
 
 console.log(say('hello world'));
 
 ```
+
+# License
+
+MIT
